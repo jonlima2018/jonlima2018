@@ -1,19 +1,16 @@
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonlima/)
-[<img src="https://img.shields.io/github/followers/jonlima2018?label=follow&style=social" height="22" title="Follow me" />](https://github.com/jonlima2018) 
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/jonlima/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /> 
+  </a>
+  <img src="https://img.shields.io/badge/Front%20End-Javascript%20%7C%20React%20%7C%20Redux-blue" />
+  <a href="https://github.com/jonlima2018">
+    <img src="https://img.shields.io/github/followers/jonlima2018?label=follow&style=social" height="22" title="Follow me" /> 
+  </a>
+</p>
 
-### Hi there ✌
+### Oi, meu nome é Jonathan ✌
 
-<!--
-**jonlima2018/jonlima2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Graduado em Analise e desenvolvimento de sistemas pela ETEP Faculdades
+- 🚀 Me desenvolvendo nas stacks Front-End
 
-Here are some ideas to get you started:
-- 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![jonlima2018](https://github-readme-stats.vercel.app/api?username=jonlima2018&show_icons=true&hide_border=true&custom_title=Jonathan%20Martins%20de%20Lima)
