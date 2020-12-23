@@ -1,3 +1,8 @@
+### Oi, meu nome é Jonathan ✌
+
+- 🎓 Graduado em Analise e desenvolvimento de sistemas pela ETEP Faculdades
+- 🚀 Me desenvolvendo nas stacks Front-End
+
 <p align="center"> 
   <a href="https://www.linkedin.com/in/jonlima/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /> 
@@ -7,10 +12,7 @@
     <img src="https://img.shields.io/github/followers/jonlima2018?label=follow&style=social" height="22" title="Follow me" /> 
   </a>
 </p>
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=jonlima2018&show_icons=true&hide_border=true&custom_title=Jonathan%20Martins%20de%20Lima" />   
+</p>
 
-### Oi, meu nome é Jonathan ✌
-
-- 🎓 Graduado em Analise e desenvolvimento de sistemas pela ETEP Faculdades
-- 🚀 Me desenvolvendo nas stacks Front-End
-
-![jonlima2018](https://github-readme-stats.vercel.app/api?username=jonlima2018&show_icons=true&hide_border=true&custom_title=Jonathan%20Martins%20de%20Lima)
