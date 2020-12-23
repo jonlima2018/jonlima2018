@@ -1,3 +1,6 @@
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonlima/)
+[<img src="https://img.shields.io/github/followers/jonlima2018?label=follow&style=social" height="22" title="Follow me" />](https://github.com/jonlima2018) 
+
 ### Hi there ✌
 
 <!--
