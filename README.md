@@ -15,8 +15,8 @@
 <br />
 <div>
   <a href="https://github.com/jonlima208">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonlima2018&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&icon_color=c792ea&custom_title=Jonathan%20Martins%20de%20Lima"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonlima2018&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonlima2018&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&icon_color=c792ea&custom_title=Jonathan%20Martins%20de%20Lima"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonlima2018&layout=compact&langs_count=7&theme=material-palenight"/>
     </a>
 </div>
  <br />
