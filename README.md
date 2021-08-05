@@ -28,4 +28,7 @@
   </a>
 </div>
 
+##
+![Snake animation](https://github.com/jonlima2018/jonlima2018/blob/output/github-contribution-grid-snake.svg)
+
 
